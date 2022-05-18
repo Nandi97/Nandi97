@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nandi97
 - 👀 I’m interested in computer hardware, web dev and gaming
-- 🌱 I’m currently learning php,html and css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 proficient in PHP,HTML & CSS
+- 🌱Currently learning Java Script
 - 📫 How to reach me +254712012246
 
 <!---
