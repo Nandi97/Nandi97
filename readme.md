@@ -89,9 +89,11 @@
 <br/>
 
 ## Top Open Source -
-[![Postgress-Practice]()](https://github.com/Nandi97/Postgress-Practice.git)
-[![Al Folio]()](https://github.com/Nandi97/MyPortfolio.git)
-[![Al Siam Readme]()](https://github.com/Nandi97/Nandi97.git)
+[![Postgress-Practice](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=Postgress-Practice&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/Postgress-Practice)
+[![Alvin's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=MyPortfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/MyPortfolio.git)
+[![Farm Management Front End](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=farm-mgt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/farm-mgt.git)
+[![Farm Management Back End](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=farm-mgt-back-end&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/farm-mgt-back-end.git)
+
 
 <p align="left">
   <a href="https://github.com/Nandi97?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
