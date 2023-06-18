@@ -12,7 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=Nandi97">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Saif+Al+Siam](https://www.google.com/search?q=Alvin+Kigen&oq=Alvin+Kigen&aqs=edge..69i57j0i546l2j0i546i649j0i546j69i61j69i60j69i65j69i64.4329j0j1&sourceid=chrome&ie=UTF-8&bshm=bshqp/1)">「 Google Me 」</a>
+    <a href="[[https://www.google.com/search?q=Saif+Al+Siam](https://www.google.com/search?q=alvin+kigen&oq=alvin+kigen&aqs=edge..69i57j0i546j0i546i649j0i546l2j69i60j69i61l2j69i65.5240j0j1&sourceid=chrome&ie=UTF-8)](https://www.google.com/search?q=Alvin+Kigen&oq=Alvin+Kigen&aqs=edge..69i57j0i546l2j0i546i649j0i546j69i61j69i60j69i65j69i64.4329j0j1&sourceid=chrome&ie=UTF-8&bshm=bshqp/1)">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Nairobi, Kenya</b> 」
     <br>
