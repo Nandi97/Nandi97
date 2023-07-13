@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/162dd9c9-7c7f-462e-81ef-741960841996.svg)](https://wakatime.com/@162dd9c9-7c7f-462e-81ef-741960841996)
+<a href="https://wakatime.com/@162dd9c9-7c7f-462e-81ef-741960841996"><img align="left" src="https://wakatime.com/badge/user/162dd9c9-7c7f-462e-81ef-741960841996.svg" alt="Total time coded since Jun 18 2023" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
