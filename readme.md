@@ -105,22 +105,27 @@ I track my certifications via **Credly**:
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Repositories
 
-[![PHP MVC FRAMEWORK](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=php-mvc-framework&theme=react)](https://github.com/Nandi97/PHP-MVC-FRAMEWORK)
-[![Homelab Docker Stack](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=homelab-docker-stack&theme=react)](https://github.com/Nandi97/homelab-docker-stack)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=MyPortfolio&theme=react)](https://github.com/Nandi97/MyPortfolio)
+- **Homelab Docker Stack**  
+  https://github.com/Nandi97/homelab-docker-stack
+
+- **PHP MVC Framework**  
+  https://github.com/Nandi97/PHP-MVC-FRAMEWORK
+
+- **Portfolio**  
+  https://github.com/Nandi97/MyPortfolio
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=react" />
 </p>
 
 <p align="center">
