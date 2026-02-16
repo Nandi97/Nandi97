@@ -1,124 +1,142 @@
-<!--
 <h2 align="center">
-  Welcome to Alvin Kigen's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I’m Alvin Kigen 👋
 </h2>
--->
 
-<!--
 <p align="center">
-  <a href="https://github.com/Nandi97"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=Nandi97">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-<a href="https://wakatime.com/@162dd9c9-7c7f-462e-81ef-741960841996"><img align="left" src="https://wakatime.com/badge/user/162dd9c9-7c7f-462e-81ef-741960841996.svg" alt="Total time coded since Jun 18 2023" /></a>
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="http://akigen-portfolio.netlify.app/">Alvin  Kigen</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
   <samp>
-    <a href="[[https://www.google.com/search?q=Saif+Al+Siam](https://www.google.com/search?q=alvin+kigen&oq=alvin+kigen&aqs=edge..69i57j0i546j0i546i649j0i546l2j69i60j69i61l2j69i65.5240j0j1&sourceid=chrome&ie=UTF-8)](https://www.google.com/search?q=Alvin+Kigen&oq=Alvin+Kigen&aqs=edge..69i57j0i546l2j0i546i649j0i546j69i61j69i60j69i65j69i64.4329j0j1&sourceid=chrome&ie=UTF-8&bshm=bshqp/1)">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b>Nairobi, Kenya</b> 」
-    <br>
-    <br>
+    IT Professional into Coding, Homelabbing with a focus on cuber security.
   </samp>
 </p>
 
 <p align="center">
- <a href="http://akigen-portfolio.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alvin" />
- </a>
- <a href="https://www.linkedin.com/in/alvin-kigen/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvin"/>
- </a>
- <a href="https://www.instagram.com/alvin_kigen/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/giphy.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alvinkigen997@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Nandi97/Nandi97/issues)
-
+  <a href="https://komarev.com/ghpvc/?username=Nandi97">
+    <img src="https://komarev.com/ghpvc/?username=Nandi97&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://wakatime.com/@162dd9c9-7c7f-462e-81ef-741960841996">
+    <img src="https://wakatime.com/badge/user/162dd9c9-7c7f-462e-81ef-741960841996.svg" />
+  </a>
 </p>
 
-<br/>
-<br/>
-<br/>
+---
 
-## Use To Code
+## 👨‍💻 About Me
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I’m a **full-stack developer** with a strong interest in **infrastructure, self-hosting, and security-first systems**.
 
-<br/>
+Over time, my focus has expanded from building apps to:
+- designing **secure VPS & homelab environments**
+- running **Docker-based stacks behind reverse proxies**
+- hardening services (firewalls, internal networking, secrets management)
+- building systems that are **observable, maintainable, and documented**
 
-## Top Open Source -
-[![Postgress-Practice](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=Postgress-Practice&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/Postgress-Practice)
-[![Alvin's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=MyPortfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/MyPortfolio)
-[![Farm Management Front End](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=farm-mgt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/farm-mgt)
-[![Farm Management Back End](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=farm-mgt-back-end&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Nandi97/farm-mgt-back-end)
+I enjoy bridging **software development** with **real-world infrastructure**.
 
+- 🌍 Based in: **Ontario/ Canada**
+- 📧 Email: **alvinkigen@outlook.com**
+- 💬 Ask me anything via GitHub Issues
 
-<p align="left">
-  <a href="https://github.com/Nandi97?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+---
 
-<br/>
-<hr/>
-<br/>
+## 🧰 What I Work With
+
+### 💻 Application & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+
+### 🐳 Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Caddy](https://img.shields.io/badge/Caddy-black?style=for-the-badge&logo=caddy)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+## 🏠 Homelab & VPS Focus
+
+Some things I actively build and maintain:
+
+- Docker-based VPS stacks (Hetzner)
+- Internal-only databases (Postgres / Redis)
+- Reverse proxy with automatic TLS (Caddy)
+- Dashboards (Dashy)
+- Monitoring (Uptime Kuma)
+- Secure secrets handling (`.env`, templating, no leaked configs)
+- Firewall + service isolation (UFW, Docker networks)
+
+This repo reflects **real infra decisions**.
+
+---
+
+## 🎓 Certifications (Credly)
+
+I track my certifications via **Credly**:
+
+🔗 **Credly Profile:**  
+👉 https://www.credly.com/users/alvin-kigen
+
 
 <p align="center">
-  <a href="https://github.com/Nandi97">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=radical" alt="Alvin' GitHub streak"/>
+  <a href="https://www.credly.com/badges/08a3eea8-20ce-4199-b2b5-334fc2d84d67" target="_blank">
+    <img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"
+         alt="Credly Certification"
+         width="150" />
+  </a>
+
+  <a href="https://www.credly.com/badges/ace1dee2-f594-4631-82a9-723ef2331d77" target="_blank">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+         alt="Credly Certification"
+         width="150" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nandi97">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=radical" alt="Alvin's GitHub Contribution"/>
+  <a href="https://www.credly.com/users/alvin-kigen">
+    View full Credly profile →
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Nandi97"><img alt="Alvin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nandi97&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Nandi97"><img alt="Alvin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nandi97&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-[![Alvins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandi97&custom_theme=tokyo-nighttitle=Alvin%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)](https://github.com/Nandi97/github-readme-activity-graph)
+## 📌 Selected Projects
+
+[![PHP MVC FRAMEWORK](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=php-mvc-framework&theme=react)](https://github.com/Nandi97/PHP-MVC-FRAMEWORK)
+[![Homelab Docker Stack](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=homelab-docker-stack&theme=react)](https://github.com/Nandi97/homelab-docker-stack)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nandi97&repo=MyPortfolio&theme=react)](https://github.com/Nandi97/MyPortfolio)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nandi97&show_icons=true&count_private=true&theme=react" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nandi97&layout=compact&theme=react" width="48%" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvin-kigen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kigtech.digital/">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge" />
+  </a>
+</p>
