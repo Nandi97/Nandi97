@@ -21,17 +21,17 @@
 
 ## 👨‍💻 About Me
 
-I’m a **full-stack developer** with a strong interest in **infrastructure, self-hosting, and security-first systems**.
+I’m an **IT Guy** with a strong interest in **cyber security, infrastructure, self-hosting, and security-first systems**.
 
 Over time, my focus has expanded from building apps to:
 - designing **secure VPS & homelab environments**
-- running **Docker-based stacks behind reverse proxies**
+- running and testing **Docker-based stacks**
 - hardening services (firewalls, internal networking, secrets management)
 - building systems that are **observable, maintainable, and documented**
 
-I enjoy bridging **software development** with **real-world infrastructure**.
+I enjoy bridging **IT Geekiness** with **real-world infrastructure**.
 
-- 🌍 Based in: **Ontario/ Canada**
+- 🌍 Based in: **Ontario/ Canada** and **Nairobi/ Kenya**
 - 📧 Email: **alvinkigen@outlook.com**
 - 💬 Ask me anything via GitHub Issues
 
@@ -67,7 +67,7 @@ I enjoy bridging **software development** with **real-world infrastructure**.
 
 ## 🏠 Homelab & VPS Focus
 
-Some things I actively build and maintain:
+Some things Im actively experimenting, building and maintaining:
 
 - Docker-based VPS stacks (Hetzner)
 - Internal-only databases (Postgres / Redis)
