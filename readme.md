@@ -80,7 +80,11 @@ This repo reflects **real infra decisions**.
 I track my certifications via **Credly**:
 
 🔗 **Credly Profile:**  
-👉 https://www.credly.com/users/alvin-kigen
+<p align="center">
+  <a href="https://www.credly.com/users/alvin-maina.a50e1ce4/edit#credly">
+    View full Credly profile →
+  </a>
+</p>
 
 
 <p align="center">
@@ -97,11 +101,7 @@ I track my certifications via **Credly**:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.credly.com/users/alvin-kigen">
-    View full Credly profile →
-  </a>
-</p>
+
 
 ---
 
