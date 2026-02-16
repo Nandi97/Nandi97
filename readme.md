@@ -37,6 +37,12 @@ I enjoy bridging **software development** with **real-world infrastructure**.
 
 ---
 
+<p align="center">
+  <img src="https://in.pinterest.com/pin/189221621831291044/" width="400" />
+</p>
+
+---
+
 ## 🧰 What I Work With
 
 ### 💻 Application & Backend
