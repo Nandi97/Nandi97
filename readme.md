@@ -23,11 +23,17 @@
 
 I’m an **IT Guy** with a strong interest in **cyber security, infrastructure, self-hosting, and security-first systems**.
 
-Over time, my focus has expanded from building apps to:
-- designing **secure VPS & homelab environments**
-- running and testing **Docker-based stacks**
-- hardening services (firewalls, internal networking, secrets management)
-- building systems that are **observable, maintainable, and documented**
+I enjoy working at the intersection of **users, systems, and infrastructure**.
+
+Things I actively deal with:
+- Windows & macOS endpoint support in regulated environments
+- Microsoft 365 identity, access, and device workflows
+- Endpoint security & lifecycle management (Intune / Defender concepts)
+- On-prem & virtualized infrastructure exposure (VMware, Hyper-V)
+- Firewalls, LAN/WAN basics, and “why is this not working” debugging
+- Writing documentation that other humans can actually follow
+
+If it runs in production, breaks unexpectedly, or needs to be secured — I’m interested.
 
 I enjoy bridging **IT Geekiness** with **real-world infrastructure**.
 
@@ -67,15 +73,16 @@ I enjoy bridging **IT Geekiness** with **real-world infrastructure**.
 
 ## 🏠 Homelab & VPS Focus
 
-Some things Im actively experimenting, building and maintaining:
+My homelab and VPS setups are used to practice **production-style decisions**, not just experimentation:
 
-- Docker-based VPS stacks (Hetzner)
-- Internal-only databases (Postgres / Redis)
-- Reverse proxy with automatic TLS (Caddy)
-- Dashboards (Dashy)
-- Monitoring (Uptime Kuma)
-- Secure secrets handling (`.env`, templating, no leaked configs)
-- Firewall + service isolation (UFW, Docker networks)
+- Service isolation using Docker networks
+- Internal-only databases (Postgres, Redis)
+- Reverse proxy with automatic TLS
+- Secrets handling via `.env` + templating
+- Monitoring, uptime checks, and failure visibility
+- Clean rebuilds after mistakes (often the best learning tool)
+
+I treat my lab the same way I would a small organization’s IT environment.
 
 This repo reflects **real infra decisions**.
 
