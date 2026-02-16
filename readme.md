@@ -38,7 +38,7 @@ I enjoy bridging **software development** with **real-world infrastructure**.
 ---
 
 <p align="center">
-  <img src="[https://in.pinterest.com/pin/189221621831291044/](https://i.pinimg.com/originals/17/16/50/171650766f341c6e9b809184f2b7ee95.gif)" width="400" />
+  <img src="https://i.pinimg.com/originals/17/16/50/171650766f341c6e9b809184f2b7ee95.gif" width="400" />
 </p>
 
 ---
