@@ -121,16 +121,16 @@ I track my certifications via **Credly**:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nandi97&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandi97&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nandi97&show_icons=true&count_private=true&theme=react" width="48%" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nandi97&layout=compact&theme=react" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nandi97&show_icons=true&count_private=true&theme=radical" width="48%" height="50%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nandi97&layout=compact&theme=radical" width="48%" height="50%"/>
 </p>
 
 ---
